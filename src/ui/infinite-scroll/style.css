@@ -1,0 +1,14 @@
+.list {
+  list-style: none;
+  padding: 0;
+}
+
+.item {
+  width: 80%;
+  background-color: blanchedalmond;
+  margin: 0 auto 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 40px;
+}
